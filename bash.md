@@ -7,10 +7,12 @@
 
 
 
- # Git Commands
+# Git Commands
 
 
 - `git clone url`
 - `git pull` - update
-- `git status` 
+- `git status` also shows new files
 - `git add -A` adds all
+- `git commit -am "text message"` adds text message
+- `git diff` shows changes
