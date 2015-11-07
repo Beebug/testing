@@ -2,11 +2,21 @@
 
 ## File system
 
-- `cd` - change dir
+- `cd` - change dir `../` up
+- `cd ~` return to home dir
 - `ls -t` list and order by time
 - `ls -alt` long format incl. hidden, sort by time
 - `ls -l` long format
-- `ls -a` list files trart with star (hidden)
+- `ls -a` list files start with star (hidden)
+- `man ls` shows options for command
+- `:q/:wq` quit/save&quit
+- `pwd` print working directory
+- `open` opens. `open.test.txt` `open~`
+- `mkdir` creates new directory
+- `less` `vi` `nano` - editors. open files
+- `tail -f test.txt` shows last logs/entries
+- `ctrl + c` terminate command
+- 
 
 
 
