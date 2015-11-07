@@ -6,7 +6,12 @@
 
 
 
-# Git Commands
+
+ # Git Commands
+
 
 - `git clone url`
 - `git pull` - update
+- `git status` 
+- `git add -A` adds all
+- 
