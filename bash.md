@@ -2,7 +2,7 @@
 
 ## File system
 
-- `cd`
+- `cd` - change dir
 
 
 
