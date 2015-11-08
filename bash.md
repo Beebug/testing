@@ -15,8 +15,10 @@
 - `mkdir` creates new directory
 - `less` `vi` `nano` - editors. open files
 - `tail -f test.txt` shows last logs/entries
+- `tail -f test.txt | grep error` search error in test.txt
 - `ctrl + c` terminate command
-- 
+- `which program` shows in which directory is the program
+- `grep` search `grep s` contain s `grep ^s` start s `grep s$` end s
 
 
 
